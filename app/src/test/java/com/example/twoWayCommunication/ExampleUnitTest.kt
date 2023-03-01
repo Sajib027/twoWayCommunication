@@ -1,4 +1,4 @@
-package com.example.pamiatv2
+package com.example.towWayCommunication
 
 import org.junit.Test
 

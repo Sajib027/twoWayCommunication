@@ -1,4 +1,4 @@
-package com.example.pamiatv2.ui.theme
+package com.example.towWayCommunication.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
